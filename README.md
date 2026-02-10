@@ -151,7 +151,7 @@ Edit the `DEFAULT_CONFIG` dictionary in `data/run_data_preprocessing.py`:
 DEFAULT_CONFIG = {
     'data_file': get_data_path('Australia(bgyh2).csv'),
     'target_name': 'Groundwater_',
-    'n_clusters': 5,           # 0 to disable clustering
+    'n_clusters': 0,           # 0 to disable clustering
     'train_split_ratio': 0.8,
     'val_split_ratio': 0.1,
     'save_results': True,
