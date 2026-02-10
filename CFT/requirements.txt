@@ -1,0 +1,32 @@
+# CFT Project Requirements
+# Causal Feature Tokenizer Transformer for Groundwater Prediction
+
+# Core Dependencies
+numpy>=1.19.0
+pandas>=1.2.0
+scipy>=1.7.0
+
+# Machine Learning & Deep Learning
+scikit-learn>=0.24.0
+torch>=1.9.0
+
+# Visualization
+matplotlib>=3.4.0
+seaborn>=0.11.0
+
+# Optional Dependencies (recommended for full functionality)
+
+# Causal Discovery - Tigramite
+# tigramite>=5.0.0
+
+# Spatial Visualization - Cartopy
+# cartopy>=0.20.0
+
+# Jupyter Support (optional)
+# jupyter>=1.0.0
+# ipython>=7.0.0
+
+# Development Tools (optional)
+# pytest>=6.0.0
+# black>=21.0
+# flake8>=3.9.0
